@@ -9,8 +9,6 @@ C++
 Можете спрашивать если что надо насчет них в свободное время смогу помочь. 
 Не знаю что ещё писать, в подробности входить не хочу ради приватности
 Тг и дискорд сервер у меня в профиле если нужен контакт со мной.
-[Telegram] :
-[Discord]: https://discord.gg/eQaHCBcq5
 # English
 Hello. 
 I'm 14 years old, I'm learning programming languages, to be more precise, it's
